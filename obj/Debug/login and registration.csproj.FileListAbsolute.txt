@@ -1,0 +1,13 @@
+C:\Users\pupul\source\repos\login and registration\login and registration\bin\Debug\login and registration.exe.config
+C:\Users\pupul\source\repos\login and registration\login and registration\bin\Debug\login and registration.exe
+C:\Users\pupul\source\repos\login and registration\login and registration\bin\Debug\login and registration.pdb
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login and registration.csproj.AssemblyReference.cache
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login_and_registration.reglog.resources
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login_and_registration.Properties.Resources.resources
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login and registration.csproj.GenerateResource.cache
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login and registration.csproj.CoreCompileInputs.cache
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login and registration.exe
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login and registration.pdb
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login_and_registration.Form2Login.resources
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login_and_registration.dashboard.resources
+C:\Users\pupul\source\repos\login and registration\login and registration\obj\Debug\login_and_registration.Form1.resources
